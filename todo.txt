@@ -1,0 +1,12 @@
+--- todo ---
+none
+
+
+--- maybe later ---
+- sounds
+- highscore
+
+
+--- done ---
+- start screen
+- death screen
